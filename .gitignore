@@ -112,8 +112,7 @@ dist
 # testing
 /coverage
 
-# production
-/build
+
 
 # misc
 .DS_Store
@@ -135,8 +134,7 @@ yarn-error.log*
 # testing
 /coverage
 
-# production
-/build
+
 
 # misc
 .DS_Store
@@ -150,5 +148,3 @@ yarn-debug.log*
 yarn-error.log*
 src
 package.json
-tsconfig.json
-yarn.lock
