@@ -1,5 +1,7 @@
 ## Prompts AI
 
+### This branch has been optimized for production use only!
+
 [Prompts AI](https://prompts.ai/) is an advanced [GPT-3](https://en.wikipedia.org/wiki/GPT-3) playground.
 
 It has two main goals:
